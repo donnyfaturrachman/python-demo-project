@@ -1,0 +1,11 @@
+customer_id,customer_name,email,age,city,signup_date
+C001,Andi,andi@gmail.com,25,Jakarta,2025-01-01
+C002,Budi,budi_gmail.com, ,Bandung,2025/01/03
+C003,Cici,,30,Jakarta,2025-01-05
+C004, Doni ,doni@gmail.com,28, ,2025-01-07
+C005,Eka,eka@gmail.com,NaN,Surabaya,2025-01-09
+C006,Fani,Fani@GMAIL.com,27,bandung,2025-01-11
+C007,Gilang,gilang@gmail,29,Jakarta,2025-01-11
+C008,Hani,hani@gmail.com,,Jakarta,2025-01-13
+C009,Hani,hani@gmail.com,31,Jakarta,2025-01-13
+C010, ,joni@gmail.com,26, ,2025-01-15

@@ -1,0 +1,11 @@
+order_id,customer_id,product,quantity,price,total_amount,order_date,customer_name,email,age,city,signup_date,order_month
+O001,C001,Laptop,1,12000000,12000000.0,2025-02-01,Andi,andi@gmail.com,25.0,Jakarta,2025-01-01,2025-02
+O002,C002,Mouse,2,150000,300000.0,2025-02-03,,,,,,2025-02
+O003,C004,Keyboard,1,500000,500000.0,2025-02-04,Doni,doni@gmail.com,28.0,,2025-01-07,2025-02
+O004,C005,Laptop,1,13000000,13000000.0,2025-02-06,Eka,eka@gmail.com,28.0,Surabaya,2025-01-09,2025-02
+O005,C007,Monitor,1,2500000,2500000.0,2025-02-08,Gilang,gilang@gmail,29.0,Jakarta,2025-01-11,2025-02
+O006,C008,Headset,3,300000,900000.0,2025-02-09,Hani,hani@gmail.com,28.0,Jakarta,2025-01-13,2025-02
+O007,C009,Mouse,2,150000,300000.0,2025-02-09,,,,,,2025-02
+O008,C010,Keyboard,1,600000,600000.0,2025-02-10,,joni@gmail.com,26.0,,2025-01-15,2025-02
+O009,C011,Monitor,1,2600000,2600000.0,2025-02-11,,,,,,2025-02
+O010,C012,Laptop,1,12500000,12500000.0,2025-08-12,,,,,,2025-08
